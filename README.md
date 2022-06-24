@@ -1,5 +1,6 @@
 # week-5-assignment-pelinhangisi
 Projeye Basic Auth Ekleme
+Ouath ve Ouath2 Araştırması
 
 ## Kullanılan Teknolojiler 
 
